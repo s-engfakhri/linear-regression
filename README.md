@@ -5,8 +5,8 @@ Displaying data structure and summary statistics.
 Checking for missing values, duplicates, and data types.
 2. Data Visualization
 Provides insightful visualizations to understand the distribution and relationship of features:
-Box plots for feature distribution.
-Histograms for data frequency.
+Box plots for feature distribution,
+Histograms for data frequence,
 Heatmap to display correlations among features.
 3. Predictive Modeling
 Implements Linear Regression to predict failure outcomes.
@@ -56,9 +56,6 @@ git push origin feature-name
 Create a pull request.
 Author
 This project is developed and maintained by Sara Fakhri Shahidani.
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 
 
 
